@@ -1,6 +1,6 @@
 ### Olá! eu sou o Wellington Lima! 👋
 
-- 🌱 Estudando full-stack
+- 🌱 Estudando PHP
 - 📫 Contate-me no email: contato@devuell.com
 
 <div align="center">
