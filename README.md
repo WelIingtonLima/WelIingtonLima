@@ -1,7 +1,7 @@
 ### Olá! eu sou o Wellington Lima! 👋
 
-- 🌱 Estudando PHP
-- 📫 Contate-me no email: contato@devuell.com
+- 🌱 Cursando Ciência da Computação com ênfase em Full Stack Dev
+- 📫 Contate-me no email: wellington.candido.lima37@gmail.com
 
 <div align="center">
   <a href="https://github.com/WelIingtonLima">
