@@ -1,6 +1,6 @@
 ### Olá! eu sou o Wellington Lima! 👋
 
-- 🌱 Cursando Ciência da Computação com ênfase em Full Stack Dev
+- 🌱 Cursando Ciência da Computação com ênfase em Full Stack
 - 📫 Contate-me no email: wellington.candido.lima37@gmail.com
 
 <div align="center">
